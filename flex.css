@@ -1,0 +1,107 @@
+
+.contaner{
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    border: 10px solid rgb(243, 177, 55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background: #000;
+}
+header{
+   display: flex;
+   align-items: center;
+   background: #e49d9d;
+   text-transform: capitalize;
+   height: 80px;
+
+}
+.start{
+    list-style-type: none;
+    display: flex;
+  
+}
+
+
+#logo{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: blue;
+   font-size: 50px;
+   font-style: italic;
+
+}
+li{
+  
+    display: flex;
+    justify-content: flex-start;
+}
+a{
+    text-decoration: none;
+    padding: 1px;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: 25px;
+}
+button{
+    display: flex;
+    justify-content: center;
+    background-color: #4013c9;
+    height: 30px;
+    width: 150px;
+    align-items: center;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
+.profile-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background: #472ed2;
+   
+}
+.title{
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+  
+
+}
+img{
+    height: 100px;
+    margin: 20px;
+}
+.car{
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    text-transform: capitalize;
+}
+.model{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(222, 235, 230);
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+
+
+}
