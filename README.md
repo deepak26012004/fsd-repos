@@ -1,2 +1,2 @@
 # fsd-repos
-full stack projrcts
+full stack projects 
